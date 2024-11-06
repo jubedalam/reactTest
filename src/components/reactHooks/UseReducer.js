@@ -22,6 +22,7 @@ const UseReducer = () => {
   return (
     <div>
       <div>
+        <p>Jubed Alam</p>
         <span>{state.count}</span>
       </div>
       <div>
